@@ -2,10 +2,10 @@
 
 A production-ready, gesture-driven augmented reality experience that fuses MediaPipe hand tracking, OpenCV video capture, and a ModernGL-style particle renderer powered by PyOpenGL and GLFW. Perform real-time gestures to morph luminous particle sculptures that float beside you, wrapped in a minimalist HUD inspired by sci-fi interfaces.
 
-<img width="1280" height="684" alt="image" src="https://github.com/user-attachments/assets/58c630e6-8e82-4769-99cd-30af2486d596" />
-<img width="1275" height="684" alt="image" src="https://github.com/user-attachments/assets/77a8da06-e5cd-43f7-a928-4809ede69f35" />
-<img width="1277" height="680" alt="image" src="https://github.com/user-attachments/assets/a03c7515-1211-4cc8-873e-958d6f05982f" />
-
+<img width="1272" height="685" alt="image" src="https://github.com/user-attachments/assets/f7e76dc3-8bbf-4d23-a4f7-57a3436d2ffd" />
+<img width="1273" height="686" alt="image" src="https://github.com/user-attachments/assets/6a598a70-c359-4f67-9ce7-aba272dad53b" />
+<img width="1275" height="687" alt="image" src="https://github.com/user-attachments/assets/f48fa69b-d464-4883-9922-7457add33a5d" />
+<img width="1272" height="689" alt="image" src="https://github.com/user-attachments/assets/6547dfd7-aeec-4da9-b8fa-59b2d6a1bb1e" />
 
 ## Features
 - Live 1280×720 webcam capture with threaded ingestion to minimize latency.
